@@ -1,0 +1,9 @@
+streamlit==1.37.0
+plotly==5.23.0
+pycaret==3.3.2
+ydata-profiling==4.9.0
+pandas==1.5.3
+streamlit-pandas-profiling==0.1.3
+openai==1.37.1
+pandasai==2.2.12
+python-dotenv==1.0.1
